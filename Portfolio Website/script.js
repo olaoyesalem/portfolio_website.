@@ -6,6 +6,7 @@ $(document).ready(function(){
         }else{
             $('.navbar').removeClass("sticky");
         }
+        
      
         // scroll-up button show/hide script
         if(this.scrollY > 500){
